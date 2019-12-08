@@ -1,0 +1,3 @@
+python-socketio[client]
+prometheus_client
+laporte
